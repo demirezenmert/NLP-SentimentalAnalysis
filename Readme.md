@@ -12,7 +12,7 @@ On this project Classifier model  by utilizing the nltk.NaiveBayesClassifier.tra
 
 ## Image Of Project
 
-<img src="image.png">
+<img src="image.png" width = '250'>
 
 ## Example Usage
 
