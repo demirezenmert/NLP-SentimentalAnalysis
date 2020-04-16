@@ -1,6 +1,14 @@
-#  Password Generator
+#  Twitter Sentimental Analysis
+## Graduate Project
 
-This Application can be used by normal users to generate strong password
+The program is written entirely in python (version 3) and utilizes components of the Natural Language Toolkit
+
+The result is a label which in this case can be 'positive' or 'negative'.
+
+
+This is implementation of the **Machine Learning**
+
+On this project Classifier model  by utilizing the nltk.NaiveBayesClassifier.train function 
 
 
 ## Install
