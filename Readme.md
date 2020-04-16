@@ -21,13 +21,15 @@ On the blank enter your tweet or text etc. then Click 'Go!'
 ## Install
 
 **Terminal **
-
+```
+    pip install NLP-SentimentalAnalysis
 ```
 Clone the files
-git clone https://github.com/demirezenmert/Python.git
-python3 Python/Password\ Generator/
 
-Enter key for generate Password and lenght Min - Max seperated by comma (,)
+```
+
+git clone https://github.com/demirezenmert/NLP-SentimentalAnalysis
+
 ```
 
 
